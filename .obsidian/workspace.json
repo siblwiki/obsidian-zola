@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "b89d822da78f66ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f5b20ba1c7ea9d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c62480163cde84a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "icon.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d13f5dbdc6cfc1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "997ad54ee81c7687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fd267eba9c2870a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c9acc92d78cef31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "352a9eb92d75b94e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "813c3e9259a20967",
+    "type": "split",
+    "children": [
+      {
+        "id": "39c91790a086eb95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "887e61fd626cb34f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "icon.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d23023155aeaf2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "icon.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77ba0a4afbc116bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0889087266e42e7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "icon.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4c62480163cde84a",
+  "lastOpenFiles": [
+    "CONFIG.md",
+    "Obsidian-Vault-main/About SIBL/For New Research Assistants.md",
+    "Obsidian-Vault-main/About SIBL/Lab Expectations.md",
+    "content/_index.md"
+  ]
+}
